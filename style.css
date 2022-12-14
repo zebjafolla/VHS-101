@@ -1,0 +1,149 @@
+
+@font-face {
+    font-family: bloodyterror;
+    src: href(VHS 101/Bloody terror TTF.ttf);
+    }
+
+hr {
+    height: 10px;
+    background-color: #dc143c9a;
+    margin: 40px 0px;
+}
+
+.column_box {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    border: 5px inset red;
+    /*margin: 10px;*/
+    background-color: black;
+    flex-direction: row;
+    /*margin: 5px;*/
+}
+
+/* on mac -- command + k + c can comment out a line of code where your cursor is */
+
+.cube {  
+    height: 50px;
+    width: 50px;
+}
+
+.colimg {
+    margin: 20px 20px 20px 20px;
+    border: medium solid crimson;
+    padding: 0px;
+}
+
+.crimson{
+    font-family: bloodyterror;
+    color: crimson;
+}
+header
+    {
+    display:inline-block;
+    padding: 20px 100px 0 20px;
+    }
+
+h1 {
+    text-align:center;
+}
+.info_sleep1{ /* first paragraph */
+    margin: 10px 0;
+    padding: 20px;
+    /* border: 1px solid crimson; */
+    text-indent: 20px;
+}
+
+.info_sleep2{ /* second paragraph */
+    margin: 10px 0;
+    padding: 20px;
+    /* border: 1px solid crimson; */
+    text-indent: 20px;
+}
+
+.info_sleep3{ /* third paragraph */
+    margin: 10px 0;
+    padding: 20px;
+    /* border: 1px solid crimson; */
+    text-indent: 20px;
+}
+
+.sleepaway /* this is background color for 2nd div */
+{
+
+}  
+
+.mahoning /*  this is for i frame  */
+    {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 500px;
+    display: block;
+    }
+
+.frame {
+    border: 2px solid black;
+}
+
+.victor /* victor cafe image */
+    {
+    width:80%;
+    height:500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+    }
+
+.lifigcap {
+    padding-top: 5px;
+    text-align:center;
+}
+
+body
+    {
+    margin: 20px 30px 20px 30px;
+    background-color: #d5d6cd96;
+    }
+form
+    {
+
+    }
+
+input
+{   
+    padding:20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
+    border:20px;
+}
+
+tr, td {
+    border: 2px solid black;
+    /*padding: 20px;*/
+}
+
+tr {
+    text-align: center;
+}
+
+table
+{
+    border: medium solid crimson;
+    width: 50%;
+    padding: 20px;
+    margin: 5px;
+}
+
+thead {
+    font-size:18px;
+}
+
+.table {
+    /*overflow-x:auto;*/
+}
+
+.timg {
+    height: 140px; 
+    width: 96px;
+}
+
